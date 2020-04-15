@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Social/static/css/main.d1b05096.chunk.css",
+    "main.js": "/React-Social/static/js/main.8084aa72.chunk.js",
+    "main.js.map": "/React-Social/static/js/main.8084aa72.chunk.js.map",
+    "runtime-main.js": "/React-Social/static/js/runtime-main.f52a9c7c.js",
+    "runtime-main.js.map": "/React-Social/static/js/runtime-main.f52a9c7c.js.map",
+    "static/js/2.67da2b16.chunk.js": "/React-Social/static/js/2.67da2b16.chunk.js",
+    "static/js/2.67da2b16.chunk.js.map": "/React-Social/static/js/2.67da2b16.chunk.js.map",
+    "index.html": "/React-Social/index.html",
+    "precache-manifest.eeb2d04c2cc1a03ffea7bbb90a67dff5.js": "/React-Social/precache-manifest.eeb2d04c2cc1a03ffea7bbb90a67dff5.js",
+    "service-worker.js": "/React-Social/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/React-Social/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.67da2b16.chunk.js.LICENSE.txt": "/React-Social/static/js/2.67da2b16.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-Social/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f52a9c7c.js",
+    "static/js/2.67da2b16.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.8084aa72.chunk.js"
+  ]
+}
